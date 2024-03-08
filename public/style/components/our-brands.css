@@ -1,0 +1,43 @@
+.our_brands_main{
+	flex-wrap: wrap;
+}
+
+
+.our_brands{
+	background-color: #f8d417;
+	padding: 8px 15px;
+	border-radius: 30px;
+	height: 400px;
+	z-index: 1;
+	cursor: pointer;
+	transition: .5s;
+}
+
+.our_brands:hover{
+	box-shadow: 10px 10px 5px 5px rgba(34, 60, 80, 0.3);
+	transition: .5s;
+	transform: scale(1.04);
+}
+
+.our_brands h1{
+	font-weight: bold;
+	color: #fff;
+	margin: 15px 5px;
+}
+
+.our_brands h3{
+	font-weight: bold;
+	color: #fff;
+	font-size: 22px;
+	margin: 0 5px;
+}
+
+.our_brands img{
+	transition: .5s;
+}
+
+
+.our_brands img:hover{
+	transform: scale(1.1);
+	transition: .5s;
+}

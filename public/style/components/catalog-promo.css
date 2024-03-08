@@ -1,0 +1,54 @@
+.catalog-promo-items{
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	transition: 0.4s;
+/*	max-width: 237px;*/
+	min-height: 320px;
+    flex-wrap: wrap;
+
+}
+
+.catalog-promo-items:hover{
+	box-shadow: 1px 13px 15px 0px rgba(34, 60, 80, 0.16);
+	cursor: pointer;
+	transition: 0.4s;
+}
+
+
+.promo_catalog{
+	background-color: #fff;
+/*	flex-wrap: wrap;*/
+}
+.promo-items-cat{
+/*	flex-wrap: wrap;*/
+/*	margin: 0 auto;*/
+}
+
+
+
+.promo-items-img{
+	border-radius: 15px;
+/*	margin-left: 45px;*/
+}
+
+
+.promo_catalog h3 {
+	color: #f21066;
+	font-weight: 600;
+}
+
+.promo_catalog h5 {
+	color: #f21066;
+	font-size: 14px;
+}
+
+
+.promos-price p{
+	border: 1px solid red;
+	padding: 3px 10px;
+	border-radius: 15px;
+	color: #fff;
+	font-weight: 600;
+	background-color: #f21066;
+}
+

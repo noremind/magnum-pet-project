@@ -1,0 +1,162 @@
+/*Header styles*/
+
+body{
+/*	zoom: 100%;*/
+	font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+/*    max-width: 1425px;*/
+}
+
+.col-xl-1{
+/*	border: 1px solid palegreen;*/
+}
+
+.col-xl-2{
+/*	border: 1px solid blue;*/
+}
+
+.col-xl-3{
+/*	border: 1px solid cyan;*/
+}
+
+.col-xl-4{
+/*	border: 1px solid orange;*/
+}
+
+.col-xl-5{
+/*	border: 1px solid pink;*/
+}
+
+.col-xl-10{
+/*	border: 1px solid burlywood;*/
+}
+
+.col{
+/*	border: 1px solid papayawhip;*/
+}
+
+
+.header{
+/*	height: 150px;*/
+	background-color: #fff;
+	box-shadow: 1px 13px 15px 0px rgba(34, 60, 80, 0.16);
+	z-index: 3;
+}
+
+
+.header-margin-top{
+	margin-top: 155px;
+}
+
+section{
+	background-color: #f9f9f9;
+	padding-top: 20px;
+}
+
+.header-search{
+/*	width: 540px;*/
+/*	width: 34rem;*/
+	height: 50px;
+	background-color: #f9f9f9;
+	box-shadow: 3px 1px 24px 1px rgba(34, 60, 80, 0.2);
+	border-radius: 15px;
+}
+
+.header-search input{
+	border: none;
+	outline: none;
+	background-color: #f9f9f9;
+/*	max-width: 800px;*/
+}
+
+.header-search button{
+	background-color: #f9f9f9;
+	border-left: 2px solid #ccc;
+	border-right: 0;
+	border-top: 0;
+	border-bottom: 0;
+	margin: 0 10px;
+	opacity: 0.4;
+	font-size: 14px;
+}
+
+.header-search img{
+	margin: 0 3px 3px 10px;
+}
+
+.header-location p{
+	margin-bottom: -3px;
+	margin-right: 3px;
+	font-size: 18px;
+}
+
+.header-location > .loca p{
+	cursor: pointer;
+	color: #f21066;
+	font-weight: 600;
+}
+
+
+.header-location h6{
+	margin-bottom: -4px;
+	cursor: pointer;
+	color: #f21066;
+	padding-right: 12px;
+	font-weight: 600;
+}
+
+.header-location{
+	margin-left: 2em;
+	width: 151px;
+	height: 50px;
+	padding-left: 12px;
+	border-radius: 12px;
+	box-shadow: 3px 1px 24px -7px rgba(34, 60, 80, 0.2);
+}
+
+.header-navbar a{
+	text-decoration: none;
+	color: #2d2f32;
+	font-size: 0.9em;
+	transition: 0.4s;
+}
+
+.header-navbar .catalog_pro{
+	color: #6e2dc3;
+	font-weight: 600;
+}
+
+.header-navbar .stocks{
+	color: #ff8200;
+	font-weight: 600;
+	border-right: 2px solid #ccc;
+	padding-right: 20px;
+}
+
+.header-navbar .link-hover:hover{
+	color: #f21066;
+	transition: 0.4s;
+}
+
+.navbar-toggler{
+	padding: 2px 8px;
+	border: 3px solid #f21066;
+}
+
+
+
+.slick-prev{
+	display: none !important;
+}
+
+.slick-next{
+	display: none !important;
+}
+
+.slider-auto img{
+	border-radius: 15px;
+}
+
+
+
+

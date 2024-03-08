@@ -1,0 +1,34 @@
+/*Font-faily*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+/* Css */
+@import url("components/catalog-promo.css");
+@import url("components/stock.css");
+@import url("components/work-invite.css");
+@import url("components/footer.css");
+@import url("components/header.css");
+@import url("components/our-brands.css");
+
+
+/* Общий стиль  */
+.cursor_pointer{
+	cursor: pointer;
+}
+
+.font_weight_bolder{
+	font-weight: bolder;
+}
+
+.magnum_color{
+	color: #f21066;
+}
+
+.navbar_active{
+	color: #f21066;
+	font-weight: 600;
+	border: 1px solid red;
+}
+
+.min_font_size{
+	font-size: 14px;
+}

@@ -1,0 +1,43 @@
+.work-invite{
+	background-color: #f21066;
+}
+
+.work-invite-button{
+	background-color: #fff;
+	padding: 15px 12px;
+	border-radius: 15px;
+	border: none;
+	font-size: 18px;
+	transition: .4s;
+	font-weight: bold;
+}
+
+.work-invite-button:hover{
+	box-shadow: 1px 13px 15px 0px rgba(34, 60, 80, 0.16);
+	transition: .4s;
+	transform: scale(1.01);
+}
+
+.work-invite-mandarin{
+	top: 37.5px;
+	z-index: 50;
+	left: -100px;
+}
+
+.work-invite-tomato{
+	bottom: -14px;
+	left: 180px;
+	z-index: 0;
+}
+
+.work-invite-banner{
+	top: -5px;
+	right: -12px;
+}
+
+
+
+
+
+
+  </style>

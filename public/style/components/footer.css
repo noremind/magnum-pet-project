@@ -1,0 +1,34 @@
+.footer h5{
+	color: #999;
+}
+
+.footer a{
+	text-decoration: none;
+	color: #2d2f32;
+	transition: .4s;
+}
+
+
+.footer a:hover{
+	color: #f20163;
+	transition: .4s;
+}
+
+.footer p{
+	margin-bottom: 15px;
+}
+
+.footer-reserved{
+	background-color: #ececec;
+}
+
+
+.footer-reserved h5{
+	color: #2d2f32;
+	opacity: 0.3;
+	font-size: 18px;
+}
+
+.footer-wrap{
+	flex-wrap: wrap;
+}
